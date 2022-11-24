@@ -56,7 +56,7 @@ class Counter extends React.Component {
          : 
           <Notification />
         }
-        ;
+        
       </Container>
     );
   }
