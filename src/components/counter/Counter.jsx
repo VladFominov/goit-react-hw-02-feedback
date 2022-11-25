@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, StatContainer } from './Counter.styled';
+import { Container} from './Counter.styled';
 import FeedbackOptions from '../Btn/Btns';
 import Statistics from '../Statistics/Statistics';
 import Section from '../Section/Section';
